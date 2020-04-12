@@ -1,0 +1,22 @@
+{
+  "name": "javascript-learning-with-first-principles",
+  "version": "1.0.0",
+  "description": "Basic starting package",
+  "main": "code.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steveyoungca/Javascript-Learning-with-First-Principles.git"
+  },
+  "author": "Steve Young",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/steveyoungca/Javascript-Learning-with-First-Principles/issues"
+  },
+  "homepage": "https://github.com/steveyoungca/Javascript-Learning-with-First-Principles#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
