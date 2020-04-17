@@ -1,0 +1,36 @@
+{
+  "name": "javascript-learning-with-first-principles",
+  "version": "1.0.0",
+  "description": "https://www.w3schools.com/js/js_whereto.asp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/steveyoungca/Javascript-Learning-with-First-Principles.git"
+  },
+  "keywords": [],
+  "author": "SteveYoungCA",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/steveyoungca/Javascript-Learning-with-First-Principles/issues"
+  },
+  "homepage": "https://github.com/steveyoungca/Javascript-Learning-with-First-Principles#readme",
+  "devDependencies": {
+    "autoprefixer": "^9.7.6",
+    "css-loader": "^3.5.2",
+    "exports-loader": "^0.7.0",
+    "node-sass": "^4.13.1",
+    "postcss-loader": "^3.0.0",
+    "sass-loader": "^8.0.2",
+    "style-loader": "^1.1.4",
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11"
+  },
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.5.0",
+    "popper.js": "^1.16.1"
+  }
+}

@@ -26,3 +26,14 @@ https://getbootstrap.com/docs/4.4/getting-started/download/
 https://medium.com/@sreejithezhakkad/how-to-start-a-web-app-project-using-bootstrap-with-npm-webpack-185e510a782e
 
  npm install bootstrap jquery popper.js --save
+
+
+# Start Here
+
+
+This looks like a good setup intro
+ https://coursetro.com/posts/design/72/Installing-Bootstrap-4-Tutorial
+
+Lets use Gulp as our build tool
+ https://gulpjs.com
+
