@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/steveyoungca/Javascript-Learning-with-First-Principles#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "bootstrap": "^4.4.1",
+    "express": "^4.17.1",
+    "jquery": "^3.5.0",
+    "popper": "^1.0.1"
   }
 }
